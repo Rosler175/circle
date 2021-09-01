@@ -1,2 +1,3 @@
 # circle
-this is a script of testing the shape of circle
+这是评价画圆形质量的代码
+画完图形后ESC退出自动计算score在（0-100）
